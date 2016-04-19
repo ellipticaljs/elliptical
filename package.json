@@ -1,0 +1,11 @@
+{
+  "name": "elliptical",
+  "description": "elliptical",
+  "version": "1.0.0",
+  "author": "S. Francis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellipticaljs/elliptical.git"
+  }
+}
